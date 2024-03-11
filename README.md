@@ -30,7 +30,7 @@ The E-Commerce Database is a comprehensive database designed for e-commerce busi
 4. **Customization**: Tailor the database to meet specific business requirements by creating additional queries or modifying existing ones.
 
 ## ERD Diagram
- ![Image Alt Text]([image_url](https://github.com/davoodoli/ecommerse/blob/master/ERD.png))
+ ![Image Alt Text](https://github.com/davoodoli/ecommerse/blob/master/ERD.png)
 
 ## Acknowledgments
 
